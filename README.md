@@ -22,16 +22,28 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages & Technologies
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-black)
 
-* HTML5, CSS3, JavaScript, React Js
-* Responsive Web Design
+## 🔧 Tools & Platforms
 
-### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?logo=googlechrome&logoColor=white)
 
-* Git & GitHub
-* VS Code
-* Browser DevTools
+## 🚀 Currently Exploring
+
+![Open Source](https://img.shields.io/badge/Open%20Source-black?logo=github&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-ff69b4)
+![Web Performance](https://img.shields.io/badge/Web%20Performance-orange)
+
 
 ---
 
