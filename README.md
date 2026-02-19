@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ayush Dhama</h1>
 
-<!--
-**ayushdhama1/ayushdhama1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Web Developer • Open-Source Learner • Tech Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌱 Passionate about **Web Development & building real projects**
+* 💡 Interested in **open-source contributions and learning new technologies**
+* 🎯 Focused on improving skills in **JavaScript, frontend development & APIs**
+* ⚡ Love turning ideas into **interactive websites and apps**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** HTML, CSS, JavaScript , React Js
+* **Web Tools:** Git, GitHub, VSCode
+* **Interests:** UI/UX design, responsive websites, open-source projects
+
+---
+
+## 📌 Featured Projects
+
+### 🌦 Weather App
+
+* Live weather details with clean UI
+* Dark mode support
+* Built using HTML, CSS, JavaScript
+
+### 🎬 Movie Recommendation Website
+
+* Uses TMDB API
+* Search, trending movies, watchlist
+* Responsive UI with theme toggle
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/ayushdhama1
+* LinkedIn: https://www.linkedin.com/in/ayush-dhama-12b534255/
+
+---
+
+⭐ *Always learning, always building.*
