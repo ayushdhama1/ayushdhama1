@@ -37,10 +37,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ayushdhama1&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdhama1&layout=compact&theme=tokyonight" height="165"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ayushdhama1&theme=tokyonight"/>
