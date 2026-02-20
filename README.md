@@ -54,6 +54,14 @@
 <img src="https://streak-stats.demolab.com?user=ayushdhama1&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayushdhama1&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayushdhama1&show_icons=true&theme=tokyonight"/>
+</p>
+
 ---
 
 ## 🌟 Featured Work Areas
